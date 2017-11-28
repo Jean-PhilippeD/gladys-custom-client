@@ -1,0 +1,26 @@
+{
+  "dependencies": {
+    "async": "^2.1.5",
+    "bluebird": "^3.4.7",
+    "body-parser": "^1.16.1",
+    "command-promise": "^2.0.1",
+    "express": "^4.14.1",
+    "infinite-loop": "^0.2.2",
+    "lame": "^1.2.4",
+    "md5": "^2.2.1",
+    "queue": "^4.2.1",
+    "request": "^2.75.0",
+    "speaker": "^0.3.0"
+  },
+  "description": "Simple client app for gladys",
+  "devDependencies": {},
+  "directories": {},
+  "main": "app.js",
+  "name": "gladys-client",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "0.1.0"
+}
